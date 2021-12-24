@@ -1,0 +1,15 @@
+/* icons to the left */
+#what .items .item i {
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 0;
+}
+#what .items .item {
+  text-align: left;
+  padding: 1.3rem;
+}
+
+/* Contacts */
+#contact .map {
+  flex: 2;
+}

@@ -1,0 +1,13 @@
+@media (max-width: 500px) {
+  /* icons to the left */
+  #what .items .item i {
+    float: left;
+    /* margin-right: 1rem;
+    margin-bottom: 0; */
+  }
+  #what .items {
+    display: block;
+    text-align: left;
+    padding: 1.3rem;
+  }
+}
